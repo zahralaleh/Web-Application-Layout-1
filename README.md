@@ -1,3 +1,3 @@
 # Web Application Layout
 
-The First Web Application Layput
+The First Web Application Layout
